@@ -1,7 +1,9 @@
-      1 Absol ASR 97
-      2 Acro Bike
-      1 Agatha CRE 129
-      2 Air Balloon SSH 156
+# Basically a list of all cards used in all decks
+# modified slightly to make uniq give a better result
+# uniq -c ran on the result.
+# modified slightly
+
+
       1 Alolan Ratatta (GO)
       2 Alolan Ratcate GX 
       1 alolan Raticate (GO)
@@ -10,6 +12,27 @@
       3 Alolan Rattata PGO 41
       1 Alolan Rattata (Pokémon GO)
       3 Alolan Rattata 
+      2 Raticate BCR 105
+      3 Raticate BKP 88
+      1 Raticate (Boundaries Crossed)
+      6 Raticate BREAK BKP 89
+      1 Raticate BREAK	
+      3 Raticate BREAK 
+      2 Raticate	colorless
+      2 Raticate EVO 67
+      3 Raticate 
+      1 Rattata PF
+      1 Rattata BCR 104
+      2 Rattata BKP 87
+      1 Rattata
+      5 Rattata EVO 66
+      3 Rattata 
+
+
+      1 Absol ASR 97    
+      2 Acro Bike
+      1 Agatha CRE 129
+      2 Air Balloon SSH 156
       1 Ariados
       1 Ariados 
       3 Ariados AOR 6
@@ -175,21 +198,6 @@
       1 Radiant Greninja ASR 46
       3 Raihan EVS 152
       1 Rare Candy PGO 69
-      2 Raticate BCR 105
-      3 Raticate BKP 88
-      1 Raticate (Boundaries Crossed)
-      6 Raticate BREAK BKP 89
-      1 Raticate BREAK	
-      3 Raticate BREAK 
-      2 Raticate	colorless
-      2 Raticate EVO 67
-      3 Raticate 
-      1 Rattata PF
-      1 Rattata BCR 104
-      2 Rattata BKP 87
-      1 Rattata
-      5 Rattata EVO 66
-      3 Rattata 
       1 Red Card
       1 Red Card XY 124
       1 Remoraid	water
