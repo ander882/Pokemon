@@ -1,14 +1,10 @@
 # Rat pokemon
 2 Alolan Raticate GX
 7 alolan Raticate (GO)
-3 Alolan Raticate PGO 42
-4 Alolan Raticate PGO 42
-4 Alolan Raticate PGO 42
+11 Alolan Raticate PGO 42
 3 Alolan Rattata
 3 Alolan Rattata (GO)
-3 Alolan Rattata PGO 41
-4 Alolan Rattata PGO 41
-4 Alolan Rattata PGO 41
+11 Alolan Rattata PGO 41
 4 Alolan Rattata (Pokémon GO)
 3 Raticate
 11 Raticate BCR 105
