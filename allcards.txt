@@ -1,3 +1,6 @@
+# Basically a list of all cards used in all decks
+# modified slightly to make uniq give a better result
+
 Absol ASR 97
 Acro Bike
 Acro Bike
