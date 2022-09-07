@@ -1,0 +1,26 @@
+Pokemon: 12
+4 PF Rattata
+4 BC Raticate
+4 DEX Sableye
+
+ 
+
+Trainers: 27
+4 Hypnotoxic Lasers
+4 Pokemon Catchers
+4 Level Balls
+1 Rocky Helmet
+1 Energy Search
+2 Dark Claws
+2 Dark Patches
+2 Switches
+2 Skyla
+1 N
+2 Cheren
+2 Professor Juniper
+
+ 
+
+Energies: 21
+4 DCEs
+17 Dark Energies
