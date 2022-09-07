@@ -1,0 +1,170 @@
+# A list of all items/Support/Stadiums used in the decks
+
+3 Acro Bike
+3 Acro Bike PRC 122
+2 Agatha CRE 129
+2 Air Balloon SSH 156
+2 Air Balloon (Sword & Shield)
+2 Assualt Vest
+2 Avery
+2 Avery CRE 130
+1 Balloon
+2 Battle Compressor Team Flare Gear PHF 92
+4 Battle VIP Pass (Fusion Strike)
+1 Bird Keeper DAA 159
+4 Boss's Orders BRS 132
+4 Boss's Orders RCL 154
+2 Boss's Orders SHF 58
+1 Brock's Grit
+3 Bursting Balloon BKP 97
+2 Captivating Poké Puff
+2 Cheren
+1 Colress (Plasma Storm)
+2 Computer Search BCR 137
+6 Crushing Hammer
+1 Cynthia (Ultra Prism)
+3 Cynthia UPR 148
+2 Dark Claws
+4 Dark patch
+3 Dark Patch (Astral Radiance)
+2 Dark Patches
+6 Delinquent
+2 Delinquent BKP 98
+2 Devolution Spray
+1 Echoing Horn (Chilling Reign)
+3 Energy Loto GRI 122
+1 Energy Search
+3 Energy Spinner UNB 170
+4 Enhanced Hammer
+2 Erika’s Hospitality TEU 140
+2 Escape Board UPR 167
+1 Escape Rope PRC 127
+11 Evolution Incense (Sword & Shield)
+3 Evosoda GEN 62
+1 Faded Town
+3 Fan of Waves
+1 Field Blower GRI 163
+2 Float Stone
+2 Float Stone BKT 137
+2 Float Stone (BREAKthrough)
+2 Gapejaw Bog
+1 Gladion CIN 109
+4 Great Ball
+1 Great Catcher (Cosmic Eclipse)
+4 Green’s Exploration UNB 175
+1 Guzma (Burning Shadows)
+7 Guzma BUS 115
+1 Guzma & Hala (Cosmic Eclipse)
+2 Hala
+3 Hau SUM 120
+1 Heat Factory Prism Star
+1 Hex Maniac
+1 Hisuian Heavy Ball (Astral Radiance)
+10 Hypnotoxic Laser PLS 123
+4 Hypnotoxic Lasers
+2 Kiawe
+1 Koga’s Trap
+2 Koga’s Trap UNB 177
+9 Level Ball
+10 Level Ball AOR 76
+4 Level Ball (Battle Styles)
+2 Lillie
+1 Lillie SUM 147
+4 Looker
+2 Looker Whistle
+8 Lysandre
+1 Lysandre FLF 104
+1 Lysandre FLF 90
+2 Marnie PR-SW 121
+7 Marnie (Sword & Shield)
+2 Memory Capsule VIV 155
+4 Moomoo Milk
+7 N
+2 Nest Ball SUM 123
+1 Nest Ball SUM 158
+4 N FAC 105
+4 N NVI 101
+3 Order Pad
+5 Ordinary Rod SSH 171
+3 Parallel City
+2 path to peak
+2 Path to the Peak (Chilling Reign)
+4 Piers
+5 Piers ASR 244
+4 Piers DAA 187
+2 Poison Barb SUM 124
+4 Pokemon Catchers
+3 Pokemon Center Lady
+1 Pokemon Fan Club
+3 PokeNav
+4 Professor Birch's Observations PRC 134
+7 Professor Elm’s Lecture LOT 188
+2 Professor Juniper
+4 Professor's Research CEL 23
+2 Professor's Research PGO 78
+4 Professor Sycamore
+1 Professor Sycamore (Phantom Forces)
+7 Professor Sycamore PHF 101
+1 Professor Sycamore STS 114
+7 Prof. Sycamore
+6 Puzzle of Time
+3 Quick Ball
+1 Quick Ball (Fusion Strike)
+14 Quick Ball SSH 179
+1 Raihan (Evolving Skies)
+2 Raihan EVS 152
+3 Rare Candy PGO 69
+2 Red Card
+4 Red Card XY 124
+4 Repeat Ball
+2 Rescue Stretcher
+2 Rescue Stretcher BUS 165
+1 Rescue Stretcher (Guardians Rising)
+1 Rocky Helmet
+3 Rocky Helmet VIV 159
+1 Rotom Dex
+2 Roxanne
+2 Rugged Helmet
+2 Sacred Ash FLF 96
+5 Scoop Up Net RCL 165
+3 Shauna/Tierno
+5 Shrine of Punishment CES 143
+7 Sky Field ROS 89
+2 Skyla
+2 Skyla BKP 122
+2 Special Charge
+3 Special Charge STS 105
+5 Spikemuth DAA 170
+2 Super Rod NVI 95
+7 Switch
+3 Switch CES 147
+4 Switch SSH 183
+3 Switch SUM 160
+3 Team Flare Grunt
+1 Teammates
+1 Teammates PRC 160
+3 Team Skull Grunt
+6 Trainers' Mail
+11 Trainers' Mail ROS 92
+2 Training Center
+3 Training Court RCL 169
+4 Trekking Shoes ASR 156
+2 Turffield Stadium RCL 170
+3 twin energy
+11 Ultra Ball
+4 Ultra Ball (Brilliant Stars)
+7 Ultra Ball BRS 150
+2 Ultra Ball PLF 122
+4 Ultra Ball ROS 93
+2 Ultra Ball SUM 135
+3 Ultra Ball SUM 161
+2 Virbank City Gym PLS 126
+10 VS-Seeker
+4 VS Seeker (Phantom Forces)
+6 VS Seeker PHF 109
+3 VS Seeker ROS 110
+8 Wally
+3 Wally ROS 107
+5 Winona
+2 Winona (Roaring Skies)
+3 Wishful Baton
