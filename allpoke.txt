@@ -1,0 +1,84 @@
+# Rat pokemon
+2 Alolan Raticate GX
+7 alolan Raticate (GO)
+3 Alolan Raticate PGO 42
+4 Alolan Raticate PGO 42
+4 Alolan Raticate PGO 42
+3 Alolan Rattata
+3 Alolan Rattata (GO)
+3 Alolan Rattata PGO 41
+4 Alolan Rattata PGO 41
+4 Alolan Rattata PGO 41
+4 Alolan Rattata (Pokémon GO)
+3 Raticate
+11 Raticate BCR 105
+10 Raticate BKP 88
+7 Raticate BREAK
+15 Raticate BREAK BKP 89
+3 Raticate BREAK  colorless
+4 Raticate  colorless
+1 Raticate EVO 67
+3 Raticate (Evolutions67)
+7 Rattata
+2 Rattata BCR 104
+8 Rattata BKP 87
+4 Rattata   colorless
+10 Rattata EVO 66
+6 Rattata (Evolutions66)
+
+# other pokemon used in these decks.
+4 Absol ASR 97
+2 Ariados
+3 Ariados
+9 Ariados AOR 6
+2 Ariados   grass
+4 BC Raticate
+7 Bibarel BRS 121
+4 Bidoof PGO 59
+3 Bidoof (Primal Clash)
+2 Butterfree FST 3
+2 Caterpie RCL 1
+4 Crobat V DAA 104
+1 Crobat Vmax
+3 Cyndaquil ASR 23
+1 Dedenne-GX (Unbroken Bonds)
+4 DEX Sableye
+2 Ditto LOT 154
+4 Eevee SUM 101
+2 Galarian Weezing SHF 42
+4 Galarian Zigzagoon SSH 117
+2 Garbodor (Rebel Clash)
+3 Garbordor (RC)
+2 Golbat
+2 Greedent VMAX (Fusion Strike)
+2 Greedent V (Shining Fates)
+3 Hisuian Typhlosion ASR 52
+2 Jirachi TEU 99
+2 Koffing SHF 41
+2 Machamp-EX
+2 Manaphy
+1 Manaphy BRS 41
+1 Medicham V (Evolving Skies)
+2 Metapod RCL 2
+2 Mew CEL 11
+1 Mew UNB 76
+4 Miltank
+1 Miltank (Astral Radiance)
+2 Moltres
+1 Naganadel-GX (Forbidden Light)
+3 Octillery
+1 Oranguru
+1 Radiant Greninja ASR 46
+1 Remoraid  water
+4 Shaymin-EX ROS 106
+2 Shaymin-EX ROS 77
+3 Snorlax
+3 Spinarak
+7 Spinarak AOR 5
+2 Spinarak  grass
+2 Spinarak LOT 9
+2 Sylveon-GX GRI 92
+2 Talonflame STS 96
+1 Tapu Lele-GX (Guardians Rising)
+1 Tauros-GX SUM 156
+5 Trubbish (Fusion Strike)
