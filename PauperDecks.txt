@@ -1,0 +1,5 @@
+# Just a list of urls that show pauper decks.
+
+https://www.justinbasil.com/league/halloffame
+https://play.limitlesstcg.com/tournament/604cd65d9fa61678029a6b5f/standings
+https://play.limitlesstcg.com/tournament/60434bc4d159610b3b23757a/standings
