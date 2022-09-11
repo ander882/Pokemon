@@ -1,7 +1,6 @@
 https://www.reddit.com/r/ptcgo/comments/4aabpx/standard_raticate_break_deck/
 
 Pokémon - 19
-
 3 Raticate BREAK BKP 89
 4 Rattata BKP 87
 4 Raticate BKP 88
@@ -9,10 +8,7 @@ Pokémon - 19
 2 Spinarak AOR 5
 2 Ariados AOR 6
 
- 
-
 Trainer Cards - 35
-
 3 Bursting Balloon BKP 97
 4 Trainers' Mail ROS 92
 1 Lysandre FLF 90
@@ -25,12 +21,8 @@ Trainer Cards - 35
 3 Professor Birch's Observations PRC 134
 4 Red Card XY 124
 4 VS Seeker PHF 109
-2 Delinquent BKP 98
-
- 
+2 Delinquent BKP 9z
 
 Energy - 6
-
 4 Double Colorless Energy PHF 111
 2 Grass Energy XY
-
