@@ -7,9 +7,6 @@ Pokemon:
 2 Spinarak (Ancient Origins 5)
 2 Ariados (Ancient Origins 6) -> Poisonous Nest: poisoning // Impound: disable retreat
 
-Energy:
-10 Grass Energy
-
 Trainer:
 3 Crushing Hammer
 3 Enhanced Hammer
@@ -25,3 +22,6 @@ Trainer:
 2 Lysandre
 3 VS-Seeker
 3 Parallel City
+
+Energy:
+10 Grass Energy
