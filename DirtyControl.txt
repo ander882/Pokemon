@@ -1,27 +1,27 @@
 https://forums.pokemontcg.com/topic/50791-dirty-control-rats-spiders/
 
 Pokemon:
-3x Rattata (Evolutions66) -> Mischievous Fang: knock off tools
-3x Raticate (Evolutions67) -> Crunch: energy discard // Shadowy ****: 60*X nuke
-3x Raticate-BREAK (Breakpoint89) -> Super Fang: 1hit-nuke (with ariados' posioning)
-2x Spinarak (Ancient Origins 5)
-2x Ariados (Ancient Origins 6) -> Poisonous Nest: poisoning // Impound: disable retreat
+3 Rattata (Evolutions66) -> Mischievous Fang: knock off tools
+3 Raticate (Evolutions67) -> Crunch: energy discard // Shadowy ****: 60*X nuke
+3 Raticate-BREAK (Breakpoint89) -> Super Fang: 1hit-nuke (with ariados' posioning)
+2 Spinarak (Ancient Origins 5)
+2 Ariados (Ancient Origins 6) -> Poisonous Nest: poisoning // Impound: disable retreat
 
 Energy:
-10x Grass Energy
+10 Grass Energy
 
 Trainer:
-3x Crushing Hammer
-3x Enhanced Hammer
-3x Team Flare Grunt
-3x Team Skull Grunt
-3x Delinquent
-3x Prof.Sycamore
-1x Brock's Grit
-2x Red Card
-2x Captivating Poké Puff
-3x Trainer's Mail
-3x Acro Bike
-2x Lysandre
-3x VS-Seeker
-3x Parallel City
+3 Crushing Hammer
+3 Enhanced Hammer
+3 Team Flare Grunt
+3 Team Skull Grunt
+3 Delinquent
+3 Prof.Sycamore
+1 Brock's Grit
+2 Red Card
+2 Captivating Poké Puff
+3 Trainer's Mail
+3 Acro Bike
+2 Lysandre
+3 VS-Seeker
+3 Parallel City
