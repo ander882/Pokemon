@@ -1,10 +1,15 @@
 https://www.reddit.com/r/pkmntcg/comments/4or3pt/rat_poison_deck_advice_please/
 
 Pokemon: 23
-4-4-3 Raticate Break
-2-2 Ariados
-2-2 Octillery
-2-2 Golbat
+4 Raticate Break
+4 Raticate Break
+3 Raticate Break
+2 Ariados
+2 Ariados
+2 Octillery
+2 Octillery
+2 Golbat
+2 Golbat
 
 T/S/S : 37
 4 Prof. Sycamore
