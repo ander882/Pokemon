@@ -3,8 +3,6 @@ Pokemon: 12
 4 BC Raticate
 4 DEX Sableye
 
- 
-
 Trainers: 27
 4 Hypnotoxic Lasers
 4 Pokemon Catchers
@@ -18,8 +16,6 @@ Trainers: 27
 1 N
 2 Cheren
 2 Professor Juniper
-
- 
 
 Energies: 21
 4 DCEs
