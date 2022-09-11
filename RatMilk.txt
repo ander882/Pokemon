@@ -1,28 +1,28 @@
 https://www.reddit.com/r/pkmntcg/comments/9vce78/rat_milk_lost_thunder_miltank_deck_under_15/
 
 Pokemon:
-Miltank x4
-Alolan Rattata x3
-Alolan Ratcate GX x2
-Moltres x2
-Oranguru x1
+4 Miltank
+3 Alolan Rattata
+2 Alolan Ratcate GX
+2 Moltres
+1 Oranguru
 
 Trainer Cards:
-Moomoo Milk x4
-Kiawe x2
-Wishful Baton x3
-Rotom Dex x1
-Hala x2
-Order Pad x3
-Looker Whistle x2
-Looker x4
-Heat Factory Prism Star x1
-PokeNav x3
-Lillie x2
-Pokemon Fan Club x1
-Switch x3
-Ultra Ball x3
+4 Moomoo Milk
+2 Kiawe
+3 Wishful Baton
+1 Rotom Dex
+2 Hala
+3 Order Pad
+2 Looker Whistle
+4 Looker
+1 Heat Factory Prism Star
+3 PokeNav
+2 Lillie
+1 Pokemon Fan Club
+3 Switch
+3 Ultra Ball
 
 Energy Cards:
-Double Colorless Energy x4
-Fire Energy x10
+4 Double Colorless Energy
+10 Fire Energy
