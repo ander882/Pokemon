@@ -1,13 +1,7 @@
-# tcg-rat
-Toward a Pokemon Pauper Rat deck
+# tcg Pokemon
 
 We play Pauper here in the house.  Try to keep away from a pay to win...  
 ie, Daddy would loose...
-
-Just researching decks I find on the Internet to help my daughter (and I) build a rat deck.
-
-Each file will contain a url and the deck that I found there.  Simple
-
 
 
 
