@@ -1,28 +1,26 @@
 https://forums.pokemontcg.com/topic/50791-dirty-control-rats-spiders/
 
 ##Pokémon - 19
-* 4 Raticate BREAK BKP 89
-* 4 Rattata EVO 66
-* 4 Raticate BKP 88
-* 1 Tauros-GX SUM 156
-* 3 Spinarak AOR 5
-* 3 Ariados AOR 6
+4 Raticate BREAK BKP 89
+4 Rattata EVO 66
+4 Raticate BKP 88
+1 Tauros-GX SUM 156
+3 Spinarak AOR 5
+3 Ariados AOR 6
 
 ##Trainer Cards - 28
-* 3 Hau SUM 120
-* 3 Lysandre ******
-* 3 Acro Bike PRC 122
-* 2 Switch SUM 160
-* 2 Super Rod NVI 95
-* 2 Nest Ball SUM 123
-* 2 Level Ball AOR 76
-* 2 Ultra Ball SUM 135
-* 3 N FAC 105
-* 4 Professor Sycamore PHF 101
-* 2 VS Seeker PHF 109
+3 Hau SUM 120
+3 Lysandre ******
+3 Acro Bike PRC 122
+2 Switch SUM 160
+2 Super Rod NVI 95
+2 Nest Ball SUM 123
+2 Level Ball AOR 76
+2 Ultra Ball SUM 135
+3 N FAC 105
+4 Professor Sycamore PHF 101
+2 VS Seeker PHF 109
  
 ##Energy - 13
-* 4 Double Colorless Energy SUM 136
-* 9 Grass Energy 1
-
-Total Cards - 60
+4 Double Colorless Energy SUM 136
+9 Grass Energy 1
