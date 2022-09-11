@@ -30,5 +30,3 @@ Trainer Cards - 36
 Energy - 10
 4 Double Colorless Energy FAC 114
 6 Fairy Energy XYEnergy 2
-
-Total Cards - 60
