@@ -1,7 +1,7 @@
-# tcg Pokemon
+# TCG Pokemon
 
 We play Pauper here in the house.  Try to keep away from a pay to win...  
-ie, Daddy would loose...
+ie, Daddy would probably loose...
 
 
 
