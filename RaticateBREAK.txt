@@ -1,31 +1,33 @@
 Pokemon (17)
-2	Ariados	grass	$ 0.36
-1	Octillery	water	$ 1.28
-2	Raticate	colorless	$ 0.40
-3	Raticate BREAK	colorless	$ 4.62
-2	Raticate	colorless	$ 0.22
-4	Rattata	colorless	$ 0.28
-1	Remoraid	water	$ 0.15
-2	Spinarak	grass	$ 0.22
+2	Ariados	grass
+1	Octillery	water
+2	Raticate	colorless
+3	Raticate BREAK	colorless
+2	Raticate	colorless
+4	Rattata	colorless
+1	Remoraid	water
+2	Spinarak	grass
+
 Trainer (37)
-1	Delinquent		$ 0.18
-1	Enhanced Hammer		$ 0.15
-1	Faded Town		$ 0.07
-2	Float Stone		$ 8.54
-1	Hex Maniac		$ 0.35
-2	Level Ball		$ 0.76
-1	Lysandre		$ 0.24
-3	N		$ 3.75
-4	Professor Sycamore		$ 0.60
-4	Puzzle of Time		$ 0.92
-2	Rescue Stretcher		$ 0.80
-2	Special Charge		$ 1.08
-1	Teammates		$ 3.20
-3	Trainers' Mail		$ 7.74
-4	Ultra Ball		$ 0.84
-4	VS Seeker		$ 9.92
-1	Wally		$ 0.17
+1	Delinquent
+1	Enhanced Hammer	
+1	Faded Town
+2	Float Stone	
+1	Hex Maniac	
+2	Level Ball
+1	Lysandre
+3	N
+4	Professor Sycamore
+4	Puzzle of Time
+2	Rescue Stretcher
+2	Special Charge
+1	Teammates
+3	Trainers' Mail
+4	Ultra Ball
+4	VS Seeker	
+1	Wally
+
 Energy (6)
-4	Double Colorless Energy		$ 1.52
-2	Grass		
-60 Cards Total
+4	Double Colorless Energy
+2	Grass
+
