@@ -1,27 +1,27 @@
 https://www.reddit.com/r/pkmntcg/comments/vs1zjm/ah_rats_alolan_raticate_decklist_710_wins_since/
 
 ##Pokémon - 20
-* 4 Alolan Rattata PGO 41
-* 2 Crobat V DAA 104
-* 4 Galarian Zigzagoon SSH 117
-* 4 Alolan Raticate PGO 42
-* 2 Caterpie RCL 1
-* 2 Metapod RCL 2
-* 2 Butterfree FST 3
+4 Alolan Rattata PGO 41
+2 Crobat V DAA 104
+4 Galarian Zigzagoon SSH 117
+4 Alolan Raticate PGO 42
+2 Caterpie RCL 1
+2 Metapod RCL 2
+2 Butterfree FST 3
 
 ##Trainer Cards - 32
-* 2 Agatha CRE 129
-* 4 Piers ASR 244
-* 2 Trekking Shoes ASR 156
-* 4 Professor's Research CEL 23
-* 4 Boss's Orders RCL 154
-* 4 Quick Ball SSH 179
-* 4 Evolution Incense SSH 163
-* 4 Scoop Up Net RCL 165
-* 2 Turffield Stadium RCL 170
-* 2 Memory Capsule VIV 155
+2 Agatha CRE 129
+4 Piers ASR 244
+2 Trekking Shoes ASR 156
+4 Professor's Research CEL 23
+4 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Evolution Incense SSH 163
+4 Scoop Up Net RCL 165
+2 Turffield Stadium RCL 170
+2 Memory Capsule VIV 155
 
 ##Energy - 8
-* 4 Twin Energy RCL 174
-* 4 Double Turbo Energy BRS 151
+4 Twin Energy RCL 174
+4 Double Turbo Energy BRS 151
 
