@@ -1,24 +1,24 @@
 https://www.reddit.com/r/pkmntcg/comments/vxutk3/alolan_raticate_and_garbodor_deck/
 
-3 3 Alolan Ratatta (GO)
-6 3 alolan Raticate (GO)
-9 3 Trubbish (FS)
-12 3 Garbordor (RC)
-14 2 Crobat V
-15 1 Crobat Vmax
-17 2 Manaphy
+3 Alolan Ratatta (GO)
+3 alolan Raticate (GO)
+3 Trubbish (FS)
+3 Garbordor (RC)
+2 Crobat V
+1 Crobat Vmax
+2 Manaphy
 
-19 2 path to peak
-21 2 Gapejaw Bog
-23 2 Avery
-26 3 Fan of Waves
-28 2 Roxanne
-32 4 Piers
-34 2 Rugged Helmet
-37 3 Crushing hammer
-38 1 Koga’s Trap
-41 3 twin energy
-52 11 dark energy
-53 1 Balloon
-57 4 Dark patch
-60 3 Quick Ball
+2 path to peak
+2 Gapejaw Bog
+2 Avery
+3 Fan of Waves
+2 Roxanne
+4 Piers
+2 Rugged Helmet
+3 Crushing hammer
+1 Koga’s Trap
+3 twin energy
+11 dark energy
+1 Balloon
+4 Dark patch
+3 Quick Ball
