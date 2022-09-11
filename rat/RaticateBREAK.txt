@@ -30,4 +30,3 @@ Trainer (37)
 Energy (6)
 4	Double Colorless Energy
 2	Grass
-
