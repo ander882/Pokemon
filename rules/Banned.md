@@ -27,4 +27,4 @@ With the exception of cards with common or uncommon printings in a legal set and
 
 These cards are also banned within our house:
 
-* Maractus SS 7
+* Maractus SS 7  (Daddy's Big boy until the kids banned it - Bummer)
