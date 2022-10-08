@@ -16,5 +16,5 @@ a LOT of these cards here can't be used, but it is a great look at what is done 
 
 A little reading on another Pauper league
 
-*. https://play.limitlesstcg.com/tournament/624f326afa3efa588f98dce7/details
+* https://play.limitlesstcg.com/tournament/624f326afa3efa588f98dce7/details
 
