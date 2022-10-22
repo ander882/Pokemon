@@ -1,16 +1,15 @@
 Just some fight pauper research...
 
-The all..  file names contain all of the (P)okemon 
+The all...  file names contain all of the Pokemon 
 and all of the items from all of the decks here.  
 They are an easy way to see what people are using 
-With their decks.
+with their decks.
 
-Example:  All 4 decks have 4 Lillie's Poke Dolls.  
-But should YOU have them in your deck?  ???
+Example:  All 4 decks have 4 Lillie's Poke Dolls.  But should YOU have them in your deck?  ???
 
 ----
 
-Non Pauper decks I've found.
+Other Non Pauper fight decks I've found.
 
 * https://m.bulbapedia.bulbagarden.net/wiki/Easy-to-Build_Fighting_Deck_(TCG)
 * https://gamerant.com/pokemon-tcg-make-best-fighting-deck/
