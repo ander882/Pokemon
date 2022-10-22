@@ -5,6 +5,10 @@ and all of the items from all of the decks here.
 They are an easy way to see what people are using 
 With their decks.
 
+Example:  All 4 decks have 4 Lillie's Poke Dolls.  
+But should YOU have them in your deck?  ???
+
+----
 
 Non Pauper decks I've found.
 
