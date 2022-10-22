@@ -1,7 +1,12 @@
 Just some fight pauper research...
 
+The all..  file names contain all of the (P)okemon 
+and all of the items from all of the decks here.  
+They are an easy way to see what people are using 
+With their decks.
 
-Non Pauper
+
+Non Pauper decks I've found.
 
 * https://m.bulbapedia.bulbagarden.net/wiki/Easy-to-Build_Fighting_Deck_(TCG)
 * https://gamerant.com/pokemon-tcg-make-best-fighting-deck/
