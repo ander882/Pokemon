@@ -26,3 +26,7 @@ Other Non Pauper fight decks I've found.
 * https://pokemoncard.io/deck/glc-fighting-jab-combo-2256
 * https://pokemoncard.io/deck/hitmonchan-92
 * https://pokemoncard.io/deck/hitmonlock-21496
+
+* https://limitlesstcg.com/decks/list/2511
+* https://limitlesstcg.com/decks/95
+* https://limitlesstcg.com/decks/list/3210
