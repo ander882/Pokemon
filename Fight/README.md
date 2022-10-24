@@ -17,4 +17,12 @@ Other Non Pauper fight decks I've found.
 
 * https://infinite.tcgplayer.com/article/How-to-Build-a-GLC-Fighting-Pok%C3%A9mon-Deck-for-Under-50/887991c3-d507-42d0-837d-3a071b110d05/
 * https://gamerant.com/pokemon-tcg-make-best-fighting-deck/
+* https://pokemoncard.io/deck/try-not-to-die-22024
 
+* https://pokemoncard.io/deck/fighting-pokemon-19854
+* https://pokemoncard.io/deck/fighting-glc-16940
+* https://pokemoncard.io/deck/hitmoncombo-glc-13552
+* https://pokemoncard.io/deck/hitmontop-combo-by-jeoshuaobaldi-13229  With a good writeup.
+* https://pokemoncard.io/deck/glc-fighting-jab-combo-2256
+* https://pokemoncard.io/deck/hitmonchan-92
+* https://pokemoncard.io/deck/hitmonlock-21496
