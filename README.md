@@ -1,9 +1,12 @@
 # TCG Pokemon
 
-We play Pauper here in the house.  Try to keep away from a pay to win...  
-ie, Daddy would probably loose...
+We play Pauper here in the house.  Try to:
+1. keep away from a pay to win...  
+   - ie, Daddy would probably loose...
+3. Keep cost low
+4. level playing field for everyone
 
-
+----
 
 Note:
 
