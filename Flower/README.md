@@ -1,9 +1,11 @@
 # My run into a flower pokemon deck
 
+Links
 * https://pokuniverse.com/knowledge-base/every-flower-pokemon-guide/
 * https://myotakuworld.com/flower-pokemon/
 * https://www.thegamer.com/pokemon-strong-flower-pokemon/
 
+Items
 * https://www.tcgplayer.com/product/85519/pokemon-undaunted-flower-shop-lady?Language=English
 
 Decks
